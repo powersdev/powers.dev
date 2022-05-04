@@ -30,6 +30,10 @@ h2 {
 	font-size: 1.25em;
 }
 
+small {
+	font-size: 0.8em;
+}
+
 ul {
 	padding-left: 1rem;
 }
