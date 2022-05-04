@@ -2,8 +2,8 @@
 title:               Jon Powers
 tagline:             'Development'
 description:         'Powers Development'
-url:                 https://powers.dev
-baseurl:             ''
+url:                 https://powersdev.github.io
+baseurl:             '/powers.dev'
 paginate:            5
 permalink:           pretty
 
