@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');	
+
+* { 
+	box-sizing: border-box;
+	margin: 0;
+}
+
+html, body {
+	font-size: 20px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+body {
+	margin: 2rem;
+}
+
+main > * {
+	margin: 2rem 0;
+}
+
+h1, h2 {
+	margin: 0.75rem 0;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.25em;
+}
+
+ul {
+	padding-left: 1rem;
+}
+
+li {
+	margin-bottom: 1rem;
+}
+
